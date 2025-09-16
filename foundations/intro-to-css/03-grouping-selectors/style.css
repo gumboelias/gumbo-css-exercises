@@ -1,5 +1,6 @@
 /* Add CSS Styling */
-.common-font {
+.black-white,
+.black-yellow {
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
@@ -8,4 +9,8 @@
     background-color: yellow;
     color: black;
 
+}
+.black-white {
+    background-color: black;
+    color: white;
 }
